@@ -1,0 +1,10 @@
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\bin\Debug\netcoreapp3.0\Looping_Exercise.exe
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\bin\Debug\netcoreapp3.0\Looping_Exercise.deps.json
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\bin\Debug\netcoreapp3.0\Looping_Exercise.runtimeconfig.json
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\bin\Debug\netcoreapp3.0\Looping_Exercise.dll
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\bin\Debug\netcoreapp3.0\Looping_Exercise.pdb
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\obj\Debug\netcoreapp3.0\Looping_Exercise.csprojAssemblyReference.cache
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\obj\Debug\netcoreapp3.0\Looping_Exercise.AssemblyInfoInputs.cache
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\obj\Debug\netcoreapp3.0\Looping_Exercise.AssemblyInfo.cs
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\obj\Debug\netcoreapp3.0\Looping_Exercise.dll
+C:\Users\Jesse Liberty\Documents\GitHub\Part1\Answers\CSharpFromNoviceToExpertPart1Answers\Looping\Looping_Exercise\Looping_Exercise\obj\Debug\netcoreapp3.0\Looping_Exercise.pdb

@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+Looping/Looping_Exercise/.vs/Looping_Exercise/DesignTimeBuild/.dtbcache
+*.lock
+*.ide
+*.json
+*.pdb
+*.cache
+*.props
+*.targets
